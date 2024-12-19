@@ -1,0 +1,1276 @@
+{
+  "oop2022-esami": {
+    "a02b/sol2/Test.java.git": [
+      {
+        "date": "2024-12-18T21:06:48.252Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2024-12-18T21:06:55.517Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2024-12-18T21:07:44.717Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 49
+      },
+      {
+        "date": "2024-12-18T21:07:59.036Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2024-12-18T21:21:57.052Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2024-12-18T21:23:02.293Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 65
+      },
+      {
+        "date": "2024-12-18T21:23:25.843Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 24
+      }
+    ],
+    "a02b/sol2/LogicImpl.java.git": [
+      {
+        "date": "2024-12-18T21:21:47.678Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 191
+      }
+    ],
+    "a02b/sol1/CursorHelpersImpl.java.git": [
+      {
+        "date": "2024-12-19T00:23:04.088Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 47
+      },
+      {
+        "date": "2024-12-19T00:23:46.799Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 43
+      },
+      {
+        "date": "2024-12-19T00:43:31.838Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2024-12-19T00:44:22.772Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 51
+      },
+      {
+        "date": "2024-12-19T00:45:05.854Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 43
+      },
+      {
+        "date": "2024-12-19T00:45:35.605Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 30
+      },
+      {
+        "date": "2024-12-19T00:51:57.059Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 381
+      },
+      {
+        "date": "2024-12-19T01:02:05.616Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 609
+      },
+      {
+        "date": "2024-12-19T01:06:41.958Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 276
+      }
+    ],
+    "src/a04/sol2/LogicImpl.java": [
+      {
+        "date": "2024-12-19T01:56:55.810Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 0
+      }
+    ],
+    "src/a03b/sol2/Test.java": [
+      {
+        "date": "2024-12-19T01:56:58.275Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 0
+      }
+    ],
+    "src/a02b/sol2/GUI.java": [
+      {
+        "date": "2024-12-19T01:57:06.888Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 0
+      }
+    ],
+    "src/a02a/sol2/Test.java": [
+      {
+        "date": "2024-12-19T01:57:08.613Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 0
+      }
+    ],
+    "src/a01b/sol2/GUI.java": [
+      {
+        "date": "2024-12-19T01:57:10.004Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 0
+      }
+    ],
+    "src/a01a/sol2/Logic.java": [
+      {
+        "date": "2024-12-19T01:57:11.520Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 0
+      }
+    ],
+    "src/a01a/sol2/Logic.java.git": [
+      {
+        "date": "2024-12-19T01:57:53.320Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 7
+      }
+    ],
+    "src/a01a/e1/SubsequenceCombinerFactoryImpl.java": [
+      {
+        "date": "2024-12-19T02:00:45.393Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2024-12-19T12:31:16.753Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 58
+      },
+      {
+        "date": "2024-12-19T12:31:20.434Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2024-12-19T12:41:56.227Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 636
+      },
+      {
+        "date": "2024-12-19T12:55:52.195Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 836
+      },
+      {
+        "date": "2024-12-19T12:56:04.389Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2024-12-19T12:56:14.798Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2024-12-19T12:56:17.065Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2024-12-19T12:56:17.789Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2024-12-19T12:58:13.820Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2024-12-19T14:18:13.289Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 0
+      }
+    ],
+    "src/a01a/e1/SubsequenceCombinerFactoryImpl.java.git": [
+      {
+        "date": "2024-12-19T02:01:04.583Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2024-12-19T02:01:46.539Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 42
+      },
+      {
+        "date": "2024-12-19T02:05:04.078Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 97
+      },
+      {
+        "date": "2024-12-19T11:25:47.435Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2024-12-19T11:26:50.360Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 63
+      },
+      {
+        "date": "2024-12-19T11:28:23.775Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 93
+      },
+      {
+        "date": "2024-12-19T11:28:30.173Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2024-12-19T11:34:56.325Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 64
+      },
+      {
+        "date": "2024-12-19T11:36:02.570Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2024-12-19T11:37:32.361Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 90
+      },
+      {
+        "date": "2024-12-19T11:40:33.091Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 181
+      },
+      {
+        "date": "2024-12-19T11:41:27.351Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 54
+      },
+      {
+        "date": "2024-12-19T11:42:46.655Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 79
+      },
+      {
+        "date": "2024-12-19T11:43:02.512Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2024-12-19T11:44:30.650Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 88
+      },
+      {
+        "date": "2024-12-19T11:46:10.493Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2024-12-19T11:47:08.362Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 58
+      },
+      {
+        "date": "2024-12-19T11:47:58.303Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 50
+      },
+      {
+        "date": "2024-12-19T12:10:04.710Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 1326
+      },
+      {
+        "date": "2024-12-19T12:10:18.416Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2024-12-19T12:10:45.100Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2024-12-19T12:10:49.449Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2024-12-19T12:11:17.836Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 28
+      },
+      {
+        "date": "2024-12-19T12:11:20.503Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2024-12-19T12:14:58.646Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 178
+      },
+      {
+        "date": "2024-12-19T12:16:15.505Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 77
+      },
+      {
+        "date": "2024-12-19T12:16:40.235Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2024-12-19T12:17:07.947Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 28
+      },
+      {
+        "date": "2024-12-19T12:17:34.412Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 26
+      },
+      {
+        "date": "2024-12-19T12:17:46.414Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2024-12-19T12:18:11.852Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2024-12-19T12:18:24.832Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2024-12-19T12:18:28.509Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2024-12-19T12:18:51.851Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2024-12-19T12:19:43.472Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 52
+      },
+      {
+        "date": "2024-12-19T12:19:50.470Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2024-12-19T12:20:14.987Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2024-12-19T12:20:30.591Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2024-12-19T12:21:53.395Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 83
+      },
+      {
+        "date": "2024-12-19T12:21:58.869Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2024-12-19T12:23:00.751Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 62
+      },
+      {
+        "date": "2024-12-19T12:25:09.198Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2024-12-19T12:27:30.775Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2024-12-19T12:29:51.033Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2024-12-19T12:56:46.844Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2024-12-19T12:58:32.875Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2024-12-19T13:28:35.329Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 28
+      },
+      {
+        "date": "2024-12-19T13:29:16.531Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 41
+      },
+      {
+        "date": "2024-12-19T13:29:34.866Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 18
+      },
+      {
+        "date": "2024-12-19T13:30:00.936Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 26
+      },
+      {
+        "date": "2024-12-19T13:30:31.364Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 30
+      },
+      {
+        "date": "2024-12-19T13:31:53.035Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 82
+      },
+      {
+        "date": "2024-12-19T13:32:33.115Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 40
+      },
+      {
+        "date": "2024-12-19T13:34:23.893Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2024-12-19T13:34:39.719Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2024-12-19T13:35:08.124Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 28
+      },
+      {
+        "date": "2024-12-19T13:42:49.939Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2024-12-19T13:43:12.553Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2024-12-19T13:44:10.515Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 58
+      },
+      {
+        "date": "2024-12-19T13:44:41.412Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 31
+      },
+      {
+        "date": "2024-12-19T13:44:43.561Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2024-12-19T13:45:29.487Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 46
+      },
+      {
+        "date": "2024-12-19T13:46:13.979Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 45
+      },
+      {
+        "date": "2024-12-19T13:47:17.487Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 63
+      },
+      {
+        "date": "2024-12-19T13:47:38.202Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2024-12-19T13:52:37.930Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 24
+      },
+      {
+        "date": "2024-12-19T13:52:42.156Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2024-12-19T13:52:55.401Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2024-12-19T13:53:19.721Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 24
+      },
+      {
+        "date": "2024-12-19T13:53:42.316Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2024-12-19T13:53:56.584Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2024-12-19T13:54:01.672Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2024-12-19T13:54:15.811Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2024-12-19T13:54:38.732Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2024-12-19T14:00:08.826Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2024-12-19T14:00:52.497Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 44
+      },
+      {
+        "date": "2024-12-19T14:08:40.382Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 468
+      },
+      {
+        "date": "2024-12-19T14:09:30.248Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 50
+      },
+      {
+        "date": "2024-12-19T14:12:08.655Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2024-12-19T14:13:32.559Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 84
+      },
+      {
+        "date": "2024-12-19T14:15:01.152Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 53
+      },
+      {
+        "date": "2024-12-19T14:18:17.395Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2024-12-19T14:19:19.455Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 62
+      },
+      {
+        "date": "2024-12-19T14:19:21.853Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2024-12-19T14:19:45.963Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 24
+      }
+    ],
+    "src/a01a/e1/Test.java.git": [
+      {
+        "date": "2024-12-19T11:28:50.911Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2024-12-19T11:29:40.386Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 50
+      },
+      {
+        "date": "2024-12-19T11:31:29.815Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 109
+      },
+      {
+        "date": "2024-12-19T11:31:37.438Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2024-12-19T11:31:48.125Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2024-12-19T11:31:55.570Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2024-12-19T11:32:51.236Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 56
+      },
+      {
+        "date": "2024-12-19T12:59:01.216Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2024-12-19T12:59:48.516Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 47
+      },
+      {
+        "date": "2024-12-19T13:28:02.305Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 1694
+      },
+      {
+        "date": "2024-12-19T13:40:36.614Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2024-12-19T13:40:51.635Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2024-12-19T13:41:34.497Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 43
+      },
+      {
+        "date": "2024-12-19T13:41:58.756Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 24
+      },
+      {
+        "date": "2024-12-19T13:48:08.490Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2024-12-19T13:48:35.651Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 27
+      },
+      {
+        "date": "2024-12-19T13:48:37.187Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2024-12-19T13:48:52.116Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2024-12-19T13:48:53.975Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2024-12-19T13:49:41.486Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 47
+      },
+      {
+        "date": "2024-12-19T13:51:41.094Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 120
+      },
+      {
+        "date": "2024-12-19T13:54:42.625Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2024-12-19T13:55:35.512Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 53
+      },
+      {
+        "date": "2024-12-19T13:56:16.354Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 41
+      }
+    ],
+    "src/a01a/sol1/SubsequenceCombinerFactoryImpl.java.git": [
+      {
+        "date": "2024-12-19T11:45:09.800Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2024-12-19T12:23:47.157Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 41
+      },
+      {
+        "date": "2024-12-19T12:28:44.384Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2024-12-19T12:29:57.985Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2024-12-19T13:59:42.803Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 24
+      },
+      {
+        "date": "2024-12-19T14:16:24.537Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2024-12-19T14:17:22.569Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 58
+      },
+      {
+        "date": "2024-12-19T14:17:42.018Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 19
+      }
+    ],
+    "src/a01a/sol1/SubsequenceCombinerFactoryImpl.java": [
+      {
+        "date": "2024-12-19T13:36:21.386Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2024-12-19T13:37:01.500Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 40
+      }
+    ],
+    "src/a01a/e1/SubsequenceCombinerFactory.java.git": [
+      {
+        "date": "2024-12-19T13:57:51.623Z",
+        "user": {
+          "name": "Filippo Greppi",
+          "email": "145936486+unibo-FilippoGreppi@users.noreply.github.com"
+        },
+        "timeSpent": 1
+      }
+    ]
+  }
+}
