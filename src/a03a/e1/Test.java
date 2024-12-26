@@ -35,7 +35,7 @@ public class Test {
 
 	@org.junit.Before
 	public void init() {
-		// this.factory = new ParserFactoryImpl();
+		this.factory = new ParserFactoryImpl();
 	}
 
 	@org.junit.Test

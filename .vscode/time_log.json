@@ -1272,5 +1272,563 @@
         "timeSpent": 1
       }
     ]
+  },
+  "esercizi-esame-OOP": {
+    "src/a01b/e2/Test.java.git": [
+      {
+        "date": "2024-12-26T14:18:25.420Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 93
+      },
+      {
+        "date": "2024-12-26T14:19:11.072Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 46
+      },
+      {
+        "date": "2024-12-26T14:22:14.292Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 36
+      },
+      {
+        "date": "2024-12-26T14:22:53.124Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 39
+      },
+      {
+        "date": "2024-12-26T14:34:05.176Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 672
+      },
+      {
+        "date": "2024-12-26T14:34:35.402Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 30
+      },
+      {
+        "date": "2024-12-26T14:35:31.075Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 56
+      }
+    ],
+    "src/a03a/e1/ParserFactoryImpl.java": [
+      {
+        "date": "2024-12-26T14:38:56.967Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 0
+      }
+    ],
+    "src/a03a/e2/Test.java.git": [
+      {
+        "date": "2024-12-26T16:21:23.937Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 78
+      },
+      {
+        "date": "2024-12-26T16:21:28.915Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2024-12-26T18:08:57.955Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 169
+      },
+      {
+        "date": "2024-12-26T18:10:02.424Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 64
+      },
+      {
+        "date": "2024-12-26T18:12:28.923Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 146
+      },
+      {
+        "date": "2024-12-26T18:12:35.854Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 7
+      }
+    ],
+    "src/a03a/e2/Logic.java": [
+      {
+        "date": "2024-12-26T16:22:28.230Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 0
+      }
+    ],
+    "src/a03a/e2/LogicImpl.java": [
+      {
+        "date": "2024-12-26T16:22:35.010Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2024-12-26T17:50:59.532Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 60
+      },
+      {
+        "date": "2024-12-26T17:51:02.613Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2024-12-26T17:51:04.120Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2024-12-26T17:51:04.555Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2024-12-26T18:01:22.287Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 618
+      },
+      {
+        "date": "2024-12-26T18:03:01.281Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 50
+      },
+      {
+        "date": "2024-12-26T18:03:20.472Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 19
+      }
+    ],
+    "src/a03a/e2/GUI.java": [
+      {
+        "date": "2024-12-26T16:28:59.356Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2024-12-26T16:30:37.361Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 39
+      },
+      {
+        "date": "2024-12-26T16:34:22.232Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 77
+      },
+      {
+        "date": "2024-12-26T16:36:53.804Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 62
+      },
+      {
+        "date": "2024-12-26T16:56:42.724Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 30
+      },
+      {
+        "date": "2024-12-26T16:57:51.711Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 58
+      },
+      {
+        "date": "2024-12-26T17:06:08.497Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 28
+      },
+      {
+        "date": "2024-12-26T17:06:41.039Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 4
+      }
+    ],
+    "src/a03a/e2/Test.java": [
+      {
+        "date": "2024-12-26T16:29:00.722Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2024-12-26T16:34:25.670Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2024-12-26T16:36:56.232Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2024-12-26T16:56:05.144Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2024-12-26T16:56:45.894Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2024-12-26T16:57:53.084Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2024-12-26T16:58:42.944Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 50
+      },
+      {
+        "date": "2024-12-26T17:06:18.997Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2024-12-26T17:24:32.393Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2024-12-26T17:24:38.483Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2024-12-26T17:24:40.190Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2024-12-26T17:24:47.517Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2024-12-26T17:24:51.000Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2024-12-26T17:24:54.219Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2024-12-26T17:24:57.467Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2024-12-26T17:46:01.734Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2024-12-26T17:46:40.766Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2024-12-26T17:47:21.060Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2024-12-26T17:49:32.874Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2024-12-26T18:01:24.602Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2024-12-26T18:02:11.722Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 47
+      },
+      {
+        "date": "2024-12-26T18:03:23.680Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2024-12-26T18:12:58.405Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2024-12-26T18:13:02.553Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2024-12-26T18:13:50.498Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 48
+      },
+      {
+        "date": "2024-12-26T18:14:32.614Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 42
+      }
+    ],
+    "src/a03a/e2/GUI.java.git": [
+      {
+        "date": "2024-12-26T16:49:04.375Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 163
+      },
+      {
+        "date": "2024-12-26T16:50:17.956Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 74
+      },
+      {
+        "date": "2024-12-26T16:50:26.805Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 9
+      }
+    ],
+    "src/a03a/e2/LogicImpl.java.git": [
+      {
+        "date": "2024-12-26T17:07:32.242Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2024-12-26T17:07:40.415Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2024-12-26T17:21:05.270Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 203
+      }
+    ],
+    "src/a03a/sol2/Test.java.git": [
+      {
+        "date": "2024-12-26T18:15:17.813Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2024-12-26T18:16:07.858Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 50
+      },
+      {
+        "date": "2024-12-26T18:51:38.360Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 2130
+      },
+      {
+        "date": "2024-12-26T18:52:41.504Z",
+        "user": {
+          "name": "",
+          "email": ""
+        },
+        "timeSpent": 63
+      }
+    ]
   }
 }
